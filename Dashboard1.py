@@ -195,4 +195,4 @@ def generate_table(dataframe, max_rows=10):
 
     
 if __name__ == '__main__':
-    app.run_server(debug=False, port=10886)
+    app.run_server(debug=False, port=10866)
