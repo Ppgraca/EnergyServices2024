@@ -2,7 +2,6 @@ ansi2html==1.9.1
 appdirs==1.4.4
 atomicwrites==1.4.0
 backports.weakref==1.0.post1
-conda-verify==3.4.2
 dash==2.16.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
